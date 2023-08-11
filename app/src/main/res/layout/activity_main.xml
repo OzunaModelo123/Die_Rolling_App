@@ -20,6 +20,30 @@
             android:layout_height="wrap_content"
             android:text="@string/_4_sided"
             android:checked="true" />
+        <RadioButton
+            android:id="@+id/radio6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_6_sided"
+            android:checked="true" />
+        <RadioButton
+            android:id="@+id/radio8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_8_sided"
+            android:checked="true" />
+        <RadioButton
+            android:id="@+id/radio12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_12_sided"
+            android:checked="true" />
+        <RadioButton
+            android:id="@+id/radio20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_20"
+            android:checked="true" />
 
         <!-- Will add more radio buttons for Dice type -->
 
