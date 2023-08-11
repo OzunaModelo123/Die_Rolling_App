@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">Die_App</string>
-    <string name="_4_sided">4-sided</string>
+    <string name="_4_sided">4</string>
     <string name="roll">Roll</string>
     <string name="roll_twice">Roll Twice</string>
     <string name="result">Result:</string>
     <string name="second_result">Second Result:</string>
+    <string name="result_text">Result: %d</string>
+    <string name="second_result_text">Result 2: %d</string>
+    <string name="_6_sided">6</string>
+    <string name="_8_sided">8</string>
+    <string name="_12_sided">12</string>
+    <string name="_20">20</string>
+
 </resources>
