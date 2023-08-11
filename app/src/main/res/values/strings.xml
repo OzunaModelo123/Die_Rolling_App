@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Die_App</string>
+    <string name="_4_sided">4-sided</string>
+    <string name="roll">Roll</string>
+    <string name="roll_twice">Roll Twice</string>
+    <string name="result">Result:</string>
+    <string name="second_result">Second Result:</string>
+</resources>
